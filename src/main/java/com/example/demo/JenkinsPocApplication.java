@@ -19,6 +19,7 @@ public class JenkinsPocApplication {
 			map.put(3, "Mark3");
 			map.put(4, "Mark4");
 			map.put(5, "Mark5");
+			map.put(6, "Mark6");
 	
 	}
 
